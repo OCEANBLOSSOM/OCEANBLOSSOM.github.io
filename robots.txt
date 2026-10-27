@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oceanblossom.github.io/bokyung/sitemap.xml
